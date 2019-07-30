@@ -1,0 +1,19 @@
+{
+  "name": "oimg",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "CJ Ting <cjting1128@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "oimg": "./main.js"
+  },
+  "dependencies": {
+    "filesize": "4.1.2",
+    "imagemin": "7.0.0",
+    "imagemin-mozjpeg": "8.0.0",
+    "imagemin-pngquant": "8.0.0",
+    "imagemin-svgo": "7.0.0",
+    "imagemin-webp": "5.1.0",
+    "yargs": "13.3.0"
+  }
+}
