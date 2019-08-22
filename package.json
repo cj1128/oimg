@@ -1,6 +1,6 @@
 {
   "name": "oimg",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "index.js",
   "author": "CJ Ting <cjting1128@gmail.com>",
   "license": "MIT",
@@ -8,6 +8,7 @@
     "oimg": "./main.js"
   },
   "dependencies": {
+    "columnify": "1.5.4",
     "filesize": "4.1.2",
     "imagemin": "7.0.0",
     "imagemin-mozjpeg": "8.0.0",
